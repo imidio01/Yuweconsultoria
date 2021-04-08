@@ -51,7 +51,7 @@
         }, 1500, 'easeInOutExpo');
       }
     }
-  });
+  });z
 
   // Mobile Navigation
   if ($('.nav-menu').length) {
